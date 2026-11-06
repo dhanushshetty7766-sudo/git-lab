@@ -1,0 +1,5 @@
+git clone https://gitgub.com/username/repository.git
+cd repository
+git remote--v
+git status
+git log--online-5
